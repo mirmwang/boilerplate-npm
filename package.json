@@ -1,5 +1,6 @@
 {
-    "name": "Miranda Wang",
+    "name": "fcc-learn-npm-package-json",
+    "author": "Miranda Wang",
     "dependencies": {
         "express": "^4.14.0"
     },
